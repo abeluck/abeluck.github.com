@@ -1,0 +1,27 @@
+body {
+	background: #333;
+}
+
+#container {
+	width: 700px;
+	height: auto;
+	margin: auto;
+	padding: 5px 0px 5px 30px;
+	background: #374A68;
+	border-radius: 15px;
+}
+
+#container p {
+	color: #C6AC7B;
+}
+
+.big {
+	font-size: 30px;
+}
+
+.medium {
+	font-size: 24px;
+	padding-right: 300px;
+}
+
+.right { text-align: right; }
